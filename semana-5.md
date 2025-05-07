@@ -40,7 +40,7 @@ A mediação apresenta o desafio:
 
 Repliquem o Template abaixo nos quadros brancos para realizar a atividade:
 
-<img title="DesignOps e DevOps" alt="Alt text" src="[https://github.com/juliastateri/UX-M10-ES/main/DesignOps_DevOps_Template.png]">
+<img title="DesignOps e DevOps" alt="Alt" src="[https://github.com/juliastateri/UX-M10-ES/main/DesignOps_DevOps_Template.png]">
 
 **Depois de replicar este modelo, fechem seus notebooks! Vamos trabalhar com o repertório de vocês.**
 
