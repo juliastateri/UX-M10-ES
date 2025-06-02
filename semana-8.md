@@ -101,7 +101,7 @@
 
 ---
 
-## ✍️ "Mapa de Métricas REACH – Registro Pessoal de Intervenção e Decisão"
+## ✍️ Parte 2 - Mapa de Métricas REACH – Registro Pessoal de Intervenção e Decisão (50% da nota)
 
 ### 🎓 Contexto
 
