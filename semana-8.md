@@ -1,6 +1,6 @@
 # Diagnóstico de DesignOps com REACH: prática colaborativa e entrega reflexiva
 
-## 📍 Objetivos da Atividade
+## 📌 Objetivos da Atividade
 
 - Aplicar conceitos de DesignOps e do framework REACH em um projeto prático real.
 - Diagnosticar gargalos e oportunidades de melhoria em processos da esteira CI/CD.
@@ -9,19 +9,19 @@
 
 ---
 
-## 🧩 Parte 1 – Atividade em Sala (50% da nota)
+## Parte 1 – Atividade em Sala (50% da nota)
 
 **Duração aproximada:** 1h40 a 2h
 
-### 📌 Etapas
+### Etapas
 
 #### 1. Aquecimento (10 a 15 min)
 
 - Contextualização durante a instrução.
 
-#### 📋 Perguntas-Guia por Eixo do Framework REACH
+#### Perguntas-Guia por Eixo do Framework REACH
 
-##### ✅ Resultados
+##### Resultados
 
 - Estamos atingindo os objetivos do projeto? Como sabemos disso?
 - Os entregáveis finais estão alinhados com o valor esperado pelos usuários?
@@ -32,7 +32,7 @@
 
 ---
 
-##### ⏱️ Eficiência
+##### Eficiência
 
 - Onde estamos perdendo mais tempo na nossa esteira de desenvolvimento?
 - Existem etapas repetitivas, manuais ou desnecessárias?
@@ -43,7 +43,7 @@
 
 ---
 
-##### 📦 Capacidade
+##### Capacidade
 
 - Nossa equipe consegue dar conta das demandas no tempo esperado?
 - Há sobrecarga em algum papel, pessoa ou etapa?
@@ -54,7 +54,7 @@
 
 ---
 
-##### 🧭 Clareza
+##### Clareza
 
 - Todos sabem o que precisa ser feito? E como deve ser feito?
 - Há entendimento comum sobre as prioridades da sprint ou do projeto?
@@ -65,7 +65,7 @@
 
 ---
 
-##### 🌿 Saúde
+##### Saúde
 
 - O processo está contribuindo para um ambiente de trabalho saudável?
 - As pessoas do time conseguem manter equilíbrio entre vida pessoal e profissional?
@@ -85,7 +85,7 @@
   - Evidências observadas no projeto;
   - Propostas de ajustes ou melhorias.
 
-💡 **Entrega do grupo:** apresentação do Canvas visual e registro dos integrantes que participaram da atividade.
+ **Entrega do grupo:** apresentação do Canvas visual e registro dos integrantes que participaram da atividade.
 
 ---
 
@@ -101,21 +101,21 @@
 
 ---
 
-## ✍️ Parte 2 - Mapa de Métricas REACH – Registro Pessoal de Intervenção e Decisão (50% da nota)
+## ✍️ Parte 2 - Registro Pessoal de Intervenção e Decisão (50% da nota)
 
 ### 🎓 Contexto
 
-Após a dinâmica coletiva de diagnóstico com o framework REACH, cada aluno deve registrar, com base em suas ações reais durante a aula e no projeto, o seu próprio **Mapa de Métricas**, incluindo decisões tomadas, desafios discutidos e raciocínios individuais — como se fosse um “diário de bordo de intervenções”.
+Após a dinâmica coletiva de diagnóstico com o framework REACH, cada aluno deve registrar, com base em suas ações reais durante a aula e no projeto, o seu próprio **Mapa de Métricas** ou **Vídeo Reflexivo**, incluindo decisões tomadas, desafios discutidos e raciocínios individuais — como se fosse um “diário de bordo de intervenções”.
 
 ---
 
 ### 📦 O que o aluno precisa entregar?
 
-Um artefato **visual e descritivo**, composto por:
+O aluno deve escolher qual entrega deseja realizar, entre as duas propostas a seguir:
 
 ---
 
-#### 1. Mapa de Métricas Pessoal (visual) – obrigatório
+#### 1. Mapa de Métricas Pessoal (visual) – opção 1
 
 Um diagrama em formato livre (mapa mental, fluxograma, quadro com setas etc.)
 
@@ -138,7 +138,7 @@ Deve incluir:
 
 ---
 
-#### 2. Gravação de Vídeo de 3 minutos (autoral) – obrigatório
+#### 2. Gravação de Vídeo de 3 minutos (autoral) – opção 2
 
 O aluno grava um vídeo curto (pode ser com celular mesmo), respondendo:
 
@@ -158,7 +158,7 @@ O aluno grava um vídeo curto (pode ser com celular mesmo), respondendo:
 
 | Critério                                                                  | Pontos |
 |--------------------------------------------------------------------------|--------|
-| Diagrama claro, completo e conectado com a aula                          | Até 3,0 pontos   |
-| Presença de pelo menos uma proposta de métrica autoral                   | Até 2,0 pontos   |
-| Argumentação técnica e pessoal no vídeo                                  | Até 3,0 pontos   |
-| Clareza de expressão, tempo e organização na apresentação                | Até 2,0 pontos   |
+| Diagrama ou vídeo claro, completo e conectado com a aula                          | Até 3,0 pontos   |
+| Presença de pelo menos uma proposta de métrica autoral ou contribuição pessoal inédita                  | Até 2,0 pontos   |
+| Argumentação técnica que demonstre o aprendizado                                  | Até 3,0 pontos   |
+| Clareza de expressão, oral ou textual                | Até 2,0 pontos   |
