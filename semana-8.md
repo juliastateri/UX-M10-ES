@@ -158,7 +158,7 @@ O aluno grava um vídeo curto (pode ser com celular mesmo), respondendo:
 
 | Critério                                                                  | Pontos |
 |--------------------------------------------------------------------------|--------|
-| Diagrama ou vídeo claro, completo e conectado com a aula                          | Até 3,0 pontos   |
-| Presença de pelo menos uma proposta de métrica autoral ou contribuição pessoal inédita                  | Até 2,0 pontos   |
-| Argumentação técnica que demonstre o aprendizado                                  | Até 3,0 pontos   |
-| Clareza de expressão, oral ou textual                | Até 2,0 pontos   |
+| Diagrama ou vídeo claro, completo e conectado com a aula                          | Até 1,5 pontos   |
+| Presença de pelo menos uma proposta de métrica autoral ou contribuição pessoal inédita                  | Até 1,0 pontos   |
+| Argumentação técnica que demonstre o aprendizado                                  | Até 1,5 pontos   |
+| Clareza de expressão, oral ou textual                | Até 1,0 pontos   |
