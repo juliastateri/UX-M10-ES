@@ -101,15 +101,15 @@
 
 ---
 
-## ✍️ Parte 2 - Registro Pessoal de Intervenção e Decisão (50% da nota)
+## Parte 2 - Registro Pessoal de Intervenção e Decisão (50% da nota)
 
-### 🎓 Contexto
+### Contexto
 
 Após a dinâmica coletiva de diagnóstico com o framework REACH, cada aluno deve registrar, com base em suas ações reais durante a aula e no projeto, o seu próprio **Mapa de Métricas** ou **Vídeo Reflexivo**, incluindo decisões tomadas, desafios discutidos e raciocínios individuais — como se fosse um “diário de bordo de intervenções”.
 
 ---
 
-### 📦 O que o aluno precisa entregar?
+### O que o aluno precisa entregar?
 
 O aluno deve escolher qual entrega deseja realizar, entre as duas propostas a seguir:
 
@@ -148,7 +148,7 @@ O aluno grava um vídeo curto (pode ser com celular mesmo), respondendo:
 
 ---
 
-## 📊 Critérios de Avaliação
+## Critérios de Avaliação
 
 ### Participação da atividade em sala (grupo): **até 5,0 pontos**
 
